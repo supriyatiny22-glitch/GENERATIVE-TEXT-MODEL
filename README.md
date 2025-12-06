@@ -22,3 +22,4 @@ Overall, this project deepened my understanding of natural language processing, 
 
 *output*
 
+<img width="1655" height="785" alt="Image" src="https://github.com/user-attachments/assets/b904b5da-aece-4218-8692-05ce6699e43d" />
